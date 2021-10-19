@@ -16,6 +16,11 @@
   <!-- RSS -->
   {% feed_meta %}
 
+  <!-- MathJax -->
+  {% if page.use_math %}
+  {% include mathjax_support.html %}
+  {% endif %}
+
   <!-- Google Analytics-->
   {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
