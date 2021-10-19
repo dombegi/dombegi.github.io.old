@@ -10,9 +10,9 @@ hidden: true
 use_math: true
 ---
 
-This formula \\(f(x) = x^2\\) is an example. okay?
+This formula $$f(x) = x^2$$ is an example. okay?
 
-Example. modified.
+Example. modified. fast?
 $$
 \begin{align*}
 \lim_{x\to 0}{\frac{e^x-1}{2x}}
