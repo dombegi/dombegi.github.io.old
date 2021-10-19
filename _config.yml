@@ -1,0 +1,41 @@
+# Site settings
+title:          Dogyun Hwangbo
+description:    "Dogyun Hwangbo's pages"
+baseurl:        "/dogyun"
+url:            "https://dombegi.github.io"
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:         
+  name:         Dogyun Hwangbo
+  url:          https://dombegi.github.io/dogyun
+  email:        hwangbo.dogyun@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       7
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+disqus:         
