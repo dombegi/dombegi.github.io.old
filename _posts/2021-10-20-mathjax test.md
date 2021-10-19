@@ -10,7 +10,7 @@ hidden: true
 use_math: true
 ---
 
-This formula $$f(x) = x^2$$ is an example.
+This formula $$f(x) = x^2$$ is an example. not easy...
 
 Example. modified. fast?
 $$
