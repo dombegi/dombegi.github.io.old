@@ -13,4 +13,4 @@ published: true # 온라인 게시 여부
 
 Recently, an email was sent from IOP publishing, informing that I have achieved IOP trusted reviewer status.
 This is the certificate.
-![certificate](./img/iop.png){: height="640"}
+![certificate](../assets/img/iop.png){: height="640"}
