@@ -11,6 +11,6 @@ use_math: true # katex사용 여부
 published: true # 온라인 게시 여부
 ---
 
-Recently, an email was sent from IOP publishing, informing that I have achieved IOP trusted reviewer status.
-This is the certificate.
+Recently, an email was sent from IOP publishing, informing that I have achieved IOP trusted reviewer status.  
+This is the certificate.  
 ![certificate](../assets/img/iop.png){: height="640"}
