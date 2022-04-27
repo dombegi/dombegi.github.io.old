@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2022-04-26-IOP Outstanding Reviewer Awards 2021 for Physica Scripta"
+title:  "IOP Outstanding Reviewer Awards 2021 for Physica Scripta"
 author: "Dogyun"
 comments: false
 tags: awards
