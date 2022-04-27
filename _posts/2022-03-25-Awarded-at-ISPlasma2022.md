@@ -3,7 +3,7 @@ layout: post
 title:  "Awarded best oral presentation award in ISPlasma2022"
 author: "Dogyun"
 comments: false
-tags: announcement
+tags: awards
 excerpt_separator: <!--more-->
 sticky: false # 메인 상단 고정 여부
 hidden: false # 메인에 숨김 여부
