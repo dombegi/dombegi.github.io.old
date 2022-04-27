@@ -11,7 +11,7 @@ use_math: true # katex사용 여부
 published: true # 온라인 게시 여부
 ---
 
-4 students are graduated from our groups:  
+4 students are graduated from our groups:  <!--more-->
 Master's degree: Takahisa Sakai and Naoki Orikasa  
 Bachelor's degree: Ryusei Nitta and Aoi Fujimori  
 Thank you for sharing great memories!
