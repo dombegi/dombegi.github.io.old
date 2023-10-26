@@ -50,3 +50,5 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus:         
+
+# Added by Dogyun 
