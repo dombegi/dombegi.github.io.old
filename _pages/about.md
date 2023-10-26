@@ -4,13 +4,13 @@ title: "About"
 author: "Dogyun Hwangbo"
 permalink: /about
 ---
-Dogyun Hwangbo is a South Korean young researcher, amatuer football player who has been living in Japan since 2008. I was majored in Engineering and especially insterested in plasma physics and controlled fusion; plasma-surface interactions; atmospheric plasma sources and its applications. I am currently working at the University of Tsukuba as assistant professor. He loves to play football and enjoys watching the domestic professional league of League of Legend - a.k.a. LoL - where I am especially rooting for Lee "Faker" Sang-Hyeok.  
+I am a young researcher based in Japan since 2008. I was born in Gyeongju, Korea.I joined Nagoya University, where I was majored in Engineering, especially having insterests in plasma physics and controlled fusion; plasma-surface interactions. After graduation, I have joined University of Tsukuba and am continuing the fusion-relevant researches, and starting a new research about atmospheric plasma sources and its applications. I love to play football and enjoy watching pro-league games of the League of Legend(LOL).
 
 ![pic](../assets/img/profile.jpg)Grinning after climbing Mt. Fuji, in 18 Aug 2018.  
 
 ## Affiliation  
 
-PhD of engineering (Nagoya University)  
+Ph.D. Engineering (Nagoya University)  
 Assistant professor at  
 Faculty of Pure and Applied Sciences,  
 University of Tsukuba, Japan  
