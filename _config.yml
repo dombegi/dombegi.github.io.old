@@ -43,7 +43,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       7
+paginate:       5
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
