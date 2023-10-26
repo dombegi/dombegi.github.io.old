@@ -3,7 +3,7 @@ layout: post
 title:  "Graduated students and new-comers"
 author: "Dogyun"
 comments: false
-tags: PX-PSI
+tags: group
 excerpt_separator: <!--more-->
 sticky: false # 메인 상단 고정 여부
 hidden: false # 메인에 게시 여부
@@ -17,6 +17,6 @@ Bachelor's degree: Ryusei Nitta and Aoi Fujimori
 Thank you for sharing great memories!
 
 And 4 students join newly our groups from April:  
-Master's course: Kohei Saito  
+Master's course: Kota Saito  
 Bachelor's course: Kazutaka Onoda, Ryo Sasaki and Sou Murakami  
 Welcome!
