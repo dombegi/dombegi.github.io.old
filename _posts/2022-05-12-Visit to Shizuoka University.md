@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visit to Oya lab. at Shizuoka University"
+title:  "Visiting Oya lab. at Shizuoka University"
 author: "Dogyun"
 comments: false
 tags: visit
