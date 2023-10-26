@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Graduated students and new-comers"
+title:  "Join and leave in 2022"
 author: "Dogyun"
 comments: false
 tags: group
