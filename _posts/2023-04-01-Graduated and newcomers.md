@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Join and leave in 2022"
+title:  "Leave and Join in 2023"
 author: "Dogyun"
 comments: false
 tags: group

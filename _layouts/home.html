@@ -10,7 +10,9 @@ layout: default
   {% endfor %}
 
   {% for post in paginator.posts %}
-    {% include catalogue_item.html %}
+    {% if post.sticky == 'false' %}
+      {% include catalogue_item.html %}
+    {% endif %}
   {% endfor %}
 </div>
 
