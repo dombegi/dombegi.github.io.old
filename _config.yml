@@ -1,8 +1,8 @@
 # Site settings
 title:          Dogyun Hwangbo
 description:    "Dogyun Hwangbo's pages"
-baseurl:        ""
-url:            "https://dombegi.github.io/"
+baseurl:        "/posts"
+url:            "https://dombegi.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
