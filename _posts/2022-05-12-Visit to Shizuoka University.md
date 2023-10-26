@@ -4,7 +4,7 @@ title:  "Visit to Oya lab. at Shizuoka University"
 author: "Dogyun"
 comments: false
 tags: visit
-excerpt_separator: <!--more-->
+excerpt_separator: <!--more--> # 글자 수 제한 없애기 여부
 sticky: false # 메인 상단 고정 여부
 hidden: false # 메인에 숨김 여부
 use_math: true # katex사용 여부
