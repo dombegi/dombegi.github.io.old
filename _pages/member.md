@@ -9,7 +9,7 @@ permalink: /member
 I am working as a collaborative faculty for the Plasma Research Center (PRC) of the University of Tsukuba.  
 The research topic mainly covers the plasma-surface interactions for divertor plasma environments in nuclear fusion reactors.
 
-The list of all students in PRC can be found [Here](https://www.prc.tsukuba.ac.jp/ja/%e5%ad%a6%e7%94%9f/){:target="_blank"}.
+プラズマ研究センターの全メンバーリストは[ここ](https://www.prc.tsukuba.ac.jp/ja/%e5%ad%a6%e7%94%9f/){:target="_blank"}で確認できます。
 
 2023年度のメンバー構成は以下です。  
 Here are the member list for 2023.
