@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "About"
-author: "Dogyun Hwangbo"
 permalink: /about
 ---
-I am a young researcher based in Japan since 2008. I was born in Gyeongju, Korea.I joined Nagoya University, where I was majored in Engineering, especially having insterests in plasma physics and controlled fusion; plasma-surface interactions. After graduation, I have joined University of Tsukuba and am continuing the fusion-relevant researches, and starting a new research about atmospheric plasma sources and its applications. I love to play football and enjoy watching pro-league games of the League of Legend(LOL).
+I am a South Korean young researcher living in Japan since 2008. I was majored in Engineering and especially insterested in plasma physics and controlled fusion; plasma-surface interactions; atmospheric plasma sources and its applications. I am currently working at the University of Tsukuba as an assistant professor. <br>
+I love to watch football matches, which I try to find for a local football team there when I go abroad for experiments. I also enjoy watching e-sports matches for the League of Legends.
 
 ![pic](../assets/img/profile.jpg)Grinning after climbing Mt. Fuji, in 18 Aug 2018.  
 

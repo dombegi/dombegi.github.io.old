@@ -1,3 +1,6 @@
 {
-    "markdown.preview.typographer": true
+    "markdown.preview.typographer": true,
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "20231027"
+    ]
 }

@@ -1,3 +1,6 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Noto+sans+JP');    // ここ変更
+
 // Colors
 $default-color: #555 !default;
 $default-shade: #353535 !default;
@@ -13,7 +16,8 @@ $code-color: #bf616a !default;
 // Fonts
 $serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif !default;
 $serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif !default;
-$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;
+$sans-serif-primary: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;
+$sans-serif: 'Noto Sans JP', 'Segoe UI', Helvetica, Arial, sans-serif !default;
 $monospaced: Menlo, Monaco, monospace !default;
 
 @mixin box-sizing($type: border-box) {
