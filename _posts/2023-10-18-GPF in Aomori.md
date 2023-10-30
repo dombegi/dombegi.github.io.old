@@ -2,7 +2,7 @@
 layout: post
 title:  "Student Presentation Awards in Global Plasma Forum in Aomori"
 comments: false
-tags: Awards
+tags: Awards, Group
 excerpt_separator: <!--more-->
 sticky: false # 메인 상단 고정 여부
 hidden: false # 메인에 게시 여부
