@@ -4,6 +4,16 @@ title: "Members"
 permalink: /member
 ---
 
+筑波大学プラズマ研究センターの協力教員です。  
+センターの小グループの中でダイバータ領域のプラズマ--壁相互作用の研究（PX-PSI Gr.）を担当します。  
+I am working as a collaborative faculty for the Plasma Research Center (PRC) of the University of Tsukuba.  
+The research topic mainly covers the plasma-surface interactions for divertor plasma environments in nuclear fusion reactors.
+
+The list of all students in PRC can be found [Here](https://www.prc.tsukuba.ac.jp/ja/%e5%ad%a6%e7%94%9f/){:target="_blank"}.
+
+2023年度のメンバー構成は以下です。  
+Here are the member list for 2023.
+
 |職位・学年|Position/grade|名前|Name|
 |:---|:---|:---|:---|
 |教授|Professor|坂本瑞樹|Sakamoto, Mizuki|
@@ -18,6 +28,3 @@ permalink: /member
 |B4|Undergraduate, 4th|木田花|Kida, Hana|
 |B4|Undergraduate, 4th|奥木拓斗|Okugi, Takuto|
 {:.custom-table}
-
-  
-[Plasma Research Center](https://www.prc.tsukuba.ac.jp/ja/%e5%ad%a6%e7%94%9f/){:target="_blank"}
