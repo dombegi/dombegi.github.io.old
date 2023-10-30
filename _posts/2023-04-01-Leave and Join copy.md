@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Leave and Join in 2023"
+comments: false
+tags: Group
+excerpt_separator: <!--more-->
+sticky: false # 메인 상단 고정 여부
+hidden: false # 메인에 게시 여부
+use_math: true # katex사용 여부
+published: true # 온라인 게시 여부
+---
+
+５名の学生が卒業されました。
+修士：高津克朋君、楠本美香都さん
+学士：佐々木亮君、村上創君、小野田和孝君
+卒業おめでとうございます！ <!--more-->
+学士の３名は引き続き、修士課程を頑張っていただきます。
+
+また、４名の学生が新たに加入しました。
+学士課程：阪本真理明さん、木田花さん、片庭葵君、奥木拓斗君
+１年間よろしくお願いします！
+
+4 students are graduated from our groups:  
+Master's degree: Katsutomo Takatsu and Mikoto Kusumoto
+Bachelor's degree: Ryo Sasaki, Sou Murakami and Kazutaka Onoda
+Thank you for sharing great memories!
+
+And 4 students join newly our groups from April:  
+Bachelor's course: Maria Sakamoto, Hana Kida, Aoi Kataniwa and Takuto Okugi
+Welcome!

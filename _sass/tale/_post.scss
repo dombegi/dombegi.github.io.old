@@ -3,7 +3,7 @@
 
   &-info {
     color: $default-tint;
-    font-family: $serif-secondary;
+    font-family: $sans-serif;
     letter-spacing: 0.5px;
     text-align: center;
 
@@ -60,4 +60,9 @@
     padding: 0;
     margin: 0;
   }
+}
+.custom-table th, .custom-table td {
+  padding-left: 0px;
+  padding-right: 2rem;
+  // any style you want ...
 }

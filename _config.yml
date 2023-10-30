@@ -1,5 +1,5 @@
 # Site settings
-title:          Dogyun Hwangbo
+title:          HWANGBO, Dogyun
 description:    "Dogyun Hwangbo's pages"
 baseurl:        ""
 url:            "https://dombegi.github.io"
@@ -9,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:         
-  name:         Dogyun Hwangbo
+  name:         Hwangbo, Dogyun
   url:          https://dombegi.github.io/
   email:        hwangbo.dogyun@gmail.com
 
@@ -43,7 +43,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       7
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
