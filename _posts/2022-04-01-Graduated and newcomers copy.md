@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leave and Join (2022)"
+title:  "Leave and Join in 2022"
 comments: false
 tags: Group
 excerpt_separator: <!--more-->
@@ -10,15 +10,15 @@ use_math: true # katex사용 여부
 published: true # 온라인 게시 여부
 ---
 
-４名の学生が卒業されました。
-修士：堺貴久君、折笠直輝君
-学士：新田龍世君、藤森あおいさん
-卒業おめでとうございます！ <!--more-->
+４名の学生が卒業されました。  
+修士：堺貴久君、折笠直輝君  
+学士：新田龍世君、藤森あおいさん  
+卒業おめでとうございます！<!--more-->  
 
-また、４名の学生が新たに加入しました。
-修士課程：齋藤康太
-学士課程：小野田和孝、佐々木亮、村上創
-１年間よろしくお願いします！
+また、４名の学生が新たに加入しました。  
+修士課程：齋藤康太  
+学士課程：小野田和孝、佐々木亮、村上創  
+１年間よろしくお願いします！  
 
 4 students are graduated from our groups:  
 Master's degree: Takahisa Sakai and Naoki Orikasa  

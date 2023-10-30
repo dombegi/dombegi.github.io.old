@@ -11,8 +11,9 @@ published: true # 온라인 게시 여부
 ---
 <!-- 줄바꿈: 문장 뒤에 스페이스 두번 -->
 <!-- 문단 바꿈: 엔터 두번 -->
-2022年5月12日、静岡大学の大矢研究室を訪問しました。水素同位体吸蔵・透過研究に関する国内有数の研究室であり、特にガス・プラズマ透過装置が完備され、放射性物質である三重水素を扱えるホットラボを備えている研究室です。<!--more-->
+2022年5月12日、静岡大学の大矢研究室を訪問しました。  
+水素同位体吸蔵・透過研究に関する国内有数の研究室であり、特にガス・プラズマ透過装置が完備され、放射性物質である三重水素を扱えるホットラボを備えている研究室です。<!--more-->  
 大変勉強になりました。  
-The Oya laboratory is specialized in the measurements of tritium, lithium relevant isotope retention in various fusion-relevant materials including tungsten-based matals and lithium composites.
-![certificate](../assets/img/shizuoka.jpg){: height="430" width="whatever"}
 
+The Oya laboratory is specialized in the measurements of tritium, lithium relevant isotope retention in various fusion-relevant materials including tungsten-based matals and lithium composites.
+![picture](../assets/img/shizuoka.jpg){: height="430" width="whatever"}

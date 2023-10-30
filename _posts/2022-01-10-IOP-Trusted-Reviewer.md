@@ -10,6 +10,6 @@ use_math: true # katex사용 여부
 published: true # 온라인 게시 여부
 ---
 
-Insitute of Physics Publishing (IOP) より、IOP trusted reviewer資格を付与されました。  <!--more-->
+Insitute of Physics Publishing (IOP) より、IOP trusted reviewer資格を付与されました。<!--more-->  
 Recently, an email was sent from IOP publishing, informing that I have achieved IOP trusted reviewer status. This is the certificate.  
 ![certificate](../assets/img/iop.png){: height="640"}
