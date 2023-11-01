@@ -12,9 +12,13 @@ I love to watch football matches, which I try to find for a local football team 
 
 Ph.D. Engineering (Nagoya University)  
 Assistant professor at  
-Faculty of Pure and Applied Sciences,  
+Faculty of Pure and Applied Sciences,
+Collaborative faculty at Plasma Research Center (PRC),
 University of Tsukuba, Japan  
 Tel: +81-29-853-7474, (sub)+81-29-853-4325  
+
+Plasma Research Center [日本語](https://www.prc.tsukuba.ac.jp/ja/){:target="_blank"} [Eng](https://www.prc.tsukuba.ac.jp/en/){:target="_blank"}
+
 
 ## Find links for accomplishments
 
