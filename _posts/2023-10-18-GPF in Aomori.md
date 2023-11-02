@@ -4,7 +4,7 @@ title:  "Student Presentation Awards in Global Plasma Forum in Aomori"
 comments: false
 tags: Awards Group # 복수 태그는 스페이스로 구분
 excerpt_separator: <!--more-->
-sticky: false # 메인 상단 고정 여부
+sticky: True # 메인 상단 고정 여부
 hidden: false # 메인에 게시 여부
 use_math: true # katex사용 여부
 published: true # 온라인 게시 여부

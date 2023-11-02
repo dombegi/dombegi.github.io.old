@@ -4,6 +4,24 @@ layout: default
 <h1 class="post-title">Hi!</h1>
 <div class="post-line"></div>
 <p><img src="../assets/img/psv.jpg" alt="pic">Philips Stadium, Eindhoven, Sep 2022.</p>
+
+<h1 class="post-title">Pinned posts</h1>
+<div class="post-line"></div>
+<div class="catalogue">
+    {% for post in site.posts %}
+      {% if post.sticky %}
+        {% include catalogue_item.html sticky='true' %}
+      {% else %}
+        {% endif %}
+    {% endfor %}
+  
+    {% for post in paginator.posts %}
+      {% if post.sticky %}
+        
+      {% else %}
+      {% endif %}
+    {% endfor %}
+</div>
 <div class="post-line"></div>
 <h2 id="affiliation">Affiliation</h2>
 
