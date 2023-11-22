@@ -11,12 +11,12 @@ The research topic mainly covers the plasma-surface interactions for divertor pl
 
 プラズマ研究センターの全メンバーリストは[ここ](https://www.prc.tsukuba.ac.jp/ja/%e5%ad%a6%e7%94%9f/){:target="_blank"}で確認できます。
 
-2023年度のメンバー構成は以下です。  
-Here are the member list for 2023.
+2023年度のPSI Gr.のメンバー構成は以下です。  
+Here are the member list of the PSI Group for academic year 2023.
 
-|職位・学年|Position/grade|名前|Name|
-|:---|:---|:---|:---|
-|教授|Professor|坂本瑞樹|Sakamoto, Mizuki|
+|職位・学年|Position/grade|名前|Name||
+|:---|:---|:---|:---|:---|
+|教授|Professor|坂本瑞樹|Sakamoto, Mizuki|センター長(Director of PRC)|
 |助教|Assistant Professor|皇甫度均|Hwangbo, Dogyun|
 |M2|Master, 2nd|齋藤康太|Saito, Kota|
 |M1|Master, 1st|吉田晴|Yoshida, Haru|
